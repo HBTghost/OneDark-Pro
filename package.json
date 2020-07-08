@@ -1,16 +1,16 @@
 {
     "name": "material-theme",
-    "displayName": "One Dark Pro",
+    "displayName": "Onee Dark",
     "description": "Atom's iconic One Dark theme for Visual Studio Code",
-    "version": "3.8.3",
-    "publisher": "zhuangtongfa",
+    "version": "1.0.0",
+    "publisher": "hbtghost",
     "bugs": {
-        "url": "https://github.com/Binaryify/OneDark-Pro/issues"
+        "url": "https://github.com/HBTghost/OneDark-Pro/issues"
     },
     "homepage": "https://binaryify.github.io/OneDark-Pro/",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Binaryify/OneDark-Pro"
+        "url": "https://github.com/HBTghost/OneDark-Pro"
     },
     "engines": {
         "vscode": "^1.40.0"
