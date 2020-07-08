@@ -2,7 +2,7 @@
     "name": "material-theme",
     "displayName": "Onee Dark",
     "description": "Atom's iconic One Dark theme for Visual Studio Code",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "hbtghost",
     "bugs": {
         "url": "https://github.com/HBTghost/OneDark-Pro/issues"
@@ -100,20 +100,20 @@
         ],
         "themes": [
             {
-                "label": "One Dark Pro",
+                "label": "Onee Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/OneDark-Pro.json"
+                "path": "./themes/Onee-Dark.json"
             }
         ],
         "configuration": {
-            "title": "One Dark Pro",
+            "title": "Onee Dark",
             "properties": {
                 "oneDarkPro.editorTheme": {
                     "type": "string",
                     "default": "",
                     "markdownDescription": "%description.oneDarkPro.editorTheme%",
                     "enum": [
-                        "Onedark Pro",
+                        "Oneedark",
                         "nord",
                         "solarized",
                         "solarized flat",
@@ -147,9 +147,11 @@
     },
     "icon": "icon.png",
     "keywords": [
+        "onee dark",
+        "onee",
         "one dark",
         "onedark",
-        "one dark pro",
+        "one dark",
         "theme",
         "atom"
     ],
